@@ -1,17 +1,5 @@
 ## Hi there 👋
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
-
 ### I'm *Douglas*, but you can call me namirso!!
 
 - I'm a technology student at the Federal University of Santa Maria. I have a degree in computer technology and am currently studying internet systems.
