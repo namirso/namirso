@@ -2,7 +2,7 @@
 
 ### I'm *Douglas*, but you can call me namirso!!
 
-- I'm a technology student at the Federal University of Santa Maria. I have a degree in computer technology and am currently studying internet systems.
+- I'm a technology student at the Federal University of Santa Maria. I have a degree in computer technology and am currently having a degree in internet systems.
 - I know about computer assembly and maintenance, and I've already done internships in that field. I'm currently focusing on web programming, with a passion for interface design.
 
 - 🔭 I’m currently working on ~~being happy~~ a software to reserve rooms in a school.
@@ -26,7 +26,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/Laravel-FC3C3C?style=flat&logo=laravel&logoColor=white) 
-![Filament](https://img.shields.io/badge/Filament-FF6F61?style=flat&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
@@ -43,6 +42,4 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
 
-### Games
 
-![ITCH.IO](https://namirso.itch.io/)
