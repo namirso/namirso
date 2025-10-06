@@ -1,11 +1,9 @@
-## Hi there 👋
-
-### I'm *Douglas*, but you can call me namirso!!
+## Douglas Silva
 
 - I'm a technology student at the Federal University of Santa Maria. I have a degree in computer technology and am currently having a degree in internet systems.
 - I know about computer assembly and maintenance, and I've already done internships in that field. I'm currently focusing on web programming, with a passion for interface design.
 
-- 🔭 I’m currently working on ~~being happy~~ a software to reserve rooms in a school.
+- 🔭 I’m currently working on a software to reserve rooms in a school.
 
 - 😄 Pronouns: He/Him
 
