@@ -1,13 +1,13 @@
-## Douglas Silva
+## Hi, I'm Douglas da Silva
 
-- I'm a technology student at the Federal University of Santa Maria. I have a degree in computer technology and am currently having a degree in internet systems.
+- I'm a technology student at the Federal University of Santa Maria. I have a degree in computer technology and am currently having other two in internet systems and graphic design.
 - I know about computer assembly and maintenance, and I've already done internships in that field. I'm currently focusing on web programming, with a passion for interface design.
 
-- 🔭 I’m currently working on a software to reserve rooms in a school.
+- 🔭 I’m currently doing an intership in the development crew of my city's municipal government. Here I help the devs by testing and developing for the employees system and the municipal city's website.
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun facts: I’ve been playing instruments for ~10 years; I live for videogames;
+- ⚡ Fun facts: I’ve been playing instruments for ~10 years; I live for videogames, music and any form of art;
 
 ## 🛠 Technologies I’ve worked with
 
